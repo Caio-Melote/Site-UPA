@@ -1,0 +1,25 @@
+.contato{
+    background-color:#dfdcbb;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.h1contato{
+    color:#003a77;
+    font-size: 50px;
+    height: 100px;
+    margin: 0 auto;
+}
+
+.pcontato{
+    width: 500px;
+    margin-top: 1.2rem;
+}
+
+.containercontato{
+    display: flex;
+    gap: 1.2rem;
+}

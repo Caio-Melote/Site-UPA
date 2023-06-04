@@ -1,0 +1,22 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;   
+
+    display: flex;
+    justify-content: center;
+    gap: 1.2rem;
+}
+
+a{
+    color: #b8d200;
+
+}
+
+a:hover{
+    filter: brightness(0.8);
+}
+
+nav{
+    width: 100%;
+}

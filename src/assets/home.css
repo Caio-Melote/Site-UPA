@@ -1,0 +1,35 @@
+.home{
+    height: calc(100vh - 64px);
+    background-image: url(./imagens/fotoUPA.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.TextHome{
+    background-color: #b8d200;
+    width: 50%;
+    height: 60%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
+
+p{
+    width: 80%;
+    font-size: 17px;
+}
+
+h1{
+    color: aliceblue;
+    font-size: 30px;
+    height: 100px;
+    margin: 0 auto;
+}
